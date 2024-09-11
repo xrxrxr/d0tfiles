@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = git://git.wincent.com/command-t.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[submodule "vendor/vimscriptuploader"]
+	url = https://github.com/tomtom/vimscriptuploader.rb.git
+[submodule "vendor/vroom"]
+	url = https://github.com/google/vroom.git
