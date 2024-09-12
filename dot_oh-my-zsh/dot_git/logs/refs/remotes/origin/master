@@ -1,0 +1,25 @@
+36f444ed7325720ec05f182781ec7d6c9a4d675c dac3314c76e799cddbbe5cf63870d31861626059 Xavier RE4 <xrthefrench@gmail.com> 1626981309 +0200	pull --rebase --stat origin master: fast-forward
+dac3314c76e799cddbbe5cf63870d31861626059 5377cc37c0f71fe22484303a4c6f387aa339f3f5 Xavier RE4 <xrthefrench@gmail.com> 1628079319 +0200	pull --rebase --stat origin master: fast-forward
+5377cc37c0f71fe22484303a4c6f387aa339f3f5 7a4f4ad91e1f937b36a54703984b958abe9da4b8 Xavier RE4 <xrthefrench@gmail.com> 1629221732 +0200	pull --rebase --stat origin master: fast-forward
+7a4f4ad91e1f937b36a54703984b958abe9da4b8 190325049ef93731ab28295dbedf36d44ab33d7a Xavier RE4 <xrthefrench@gmail.com> 1630328629 +0200	pull --rebase --stat origin master: fast-forward
+190325049ef93731ab28295dbedf36d44ab33d7a 735808f48d54aabce540f6c90294e21118104cf4 Xavier RE4 <xrthefrench@gmail.com> 1631531373 +0200	pull --rebase --stat origin master: fast-forward
+735808f48d54aabce540f6c90294e21118104cf4 5f99eb5afd3c19683f178ddb57bb9345391d3548 Xavier RE4 <xrthefrench@gmail.com> 1632998506 +0200	pull --rebase --stat origin master: fast-forward
+5f99eb5afd3c19683f178ddb57bb9345391d3548 19f9b6f1ade7788b07480be685cf3fcb117cad84 Xavier RE4 <xrthefrench@gmail.com> 1634123544 +0200	pull --rebase --stat origin master: fast-forward
+19f9b6f1ade7788b07480be685cf3fcb117cad84 c2b9ae29371f142fe7f2da694f893f1365170bc2 Xavier RE4 <xrthefrench@gmail.com> 1635251411 +0200	pull --rebase --stat origin master: fast-forward
+c2b9ae29371f142fe7f2da694f893f1365170bc2 b2f35a7b98455b2bb8c7c3b11db6aa587e1d28bf Xavier RE4 <xrthefrench@gmail.com> 1636330996 +0100	pull --rebase --stat origin master: fast-forward
+b2f35a7b98455b2bb8c7c3b11db6aa587e1d28bf 15fd9c84deae400ba52451d75548fb8f6ec26bcf Xavier RE4 <xrthefrench@gmail.com> 1637521817 +0100	pull --rebase --stat origin master: fast-forward
+15fd9c84deae400ba52451d75548fb8f6ec26bcf 841f3cb0bb7663fa1062ffc59acb7b4581dc1d0f Xavier RE4 <xrthefrench@gmail.com> 1638739488 +0100	pull --rebase --stat origin master: fast-forward
+841f3cb0bb7663fa1062ffc59acb7b4581dc1d0f 904f8685f75ff5dd3f544f8c6f2cabb8e5952e9a Xavier RE4 <xrthefrench@gmail.com> 1639820649 +0100	pull --rebase --stat origin master: fast-forward
+904f8685f75ff5dd3f544f8c6f2cabb8e5952e9a 78c91ccbf99c77bd4d9cdb74279a40776721f66d Xavier RE4 <xrthefrench@gmail.com> 1641045217 +0100	pull --rebase --stat origin master: fast-forward
+78c91ccbf99c77bd4d9cdb74279a40776721f66d 035c856c2cbbad2b45252ec8c065c3a9e7eefa65 Xavier RE4 <xrthefrench@gmail.com> 1642132939 +0100	pull --rebase --stat origin master: fast-forward
+035c856c2cbbad2b45252ec8c065c3a9e7eefa65 11a87eac47c579366620f995330532f47dc651f2 Xavier RE4 <xrthefrench@gmail.com> 1643396309 +0100	pull --rebase origin master: fast-forward
+11a87eac47c579366620f995330532f47dc651f2 0da33ca22be19452e26ed44aef8e99972d0bf866 Xavier RE4 <xrthefrench@gmail.com> 1644509353 +0100	pull --quiet --rebase origin master: fast-forward
+0da33ca22be19452e26ed44aef8e99972d0bf866 914b6399e88a16fdced427c2ae7738785dcb16b0 Xavier RE4 <xrthefrench@gmail.com> 1645638573 +0100	pull --quiet --rebase origin master: fast-forward
+914b6399e88a16fdced427c2ae7738785dcb16b0 40f49342f587167292461242dc13fdb93363278a Xavier RE4 <xrthefrench@gmail.com> 1646768483 +0100	pull --quiet --rebase origin master: fast-forward
+40f49342f587167292461242dc13fdb93363278a 50113a53f379b7d98e6921ba58e8440324beb32c Xavier RE4 <xrthefrench@gmail.com> 1648048435 +0100	pull --quiet --rebase origin master: fast-forward
+50113a53f379b7d98e6921ba58e8440324beb32c 4d9e5ce9a7d8db3c3aadcae81580a5c3ff5a0e8b Xavier RE4 <xrthefrench@gmail.com> 1649187479 +0200	pull --quiet --rebase origin master: fast-forward
+4d9e5ce9a7d8db3c3aadcae81580a5c3ff5a0e8b a26d72baa27a46cfd2f35afa789529dccf7fc212 Xavier RE4 <xrthefrench@gmail.com> 1650409782 +0200	pull --quiet --rebase origin master: fast-forward
+a26d72baa27a46cfd2f35afa789529dccf7fc212 8f56a8bdf39d7727ab0e220f0164f78c77f9c50e Xavier RE4 <xrthefrench@gmail.com> 1651584025 +0200	pull --quiet --rebase origin master: fast-forward
+8f56a8bdf39d7727ab0e220f0164f78c77f9c50e 39b600e9e564db3dec265fcf2e3db4b5568dd93a Xavier RE4 <xrthefrench@gmail.com> 1652711317 +0200	pull --quiet --rebase origin master: fast-forward
+39b600e9e564db3dec265fcf2e3db4b5568dd93a e9e8c6b54d594109041bdd4bc3902b40f9ae8849 Xavier RE4 <xrthefrench@gmail.com> 1653832252 +0200	pull --quiet --rebase origin master: fast-forward
+e9e8c6b54d594109041bdd4bc3902b40f9ae8849 d41ca84af1271e8bfbe26f581cebe3b86521d0db Xavier RE4 <xrthefrench@gmail.com> 1654966440 +0200	pull --quiet --rebase origin master: fast-forward

@@ -3,9 +3,9 @@
 
 
 
-> vim & .vimrc
-> .zshrc
-> .moc
+- vim & .vimrc
+- .zshrc
+- .moc
 
 
 
