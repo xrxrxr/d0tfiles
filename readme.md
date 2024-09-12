@@ -4,15 +4,14 @@
 
 
 - vim & .vimrc
-- .zshrc
+- .zshrc & oh-my-zsh
 - .moc
-
+- i3 wv & i3blocks soon...
 
 
 
 
 ## License
-
 
 
 **Free Software, Hell Yeah!**
